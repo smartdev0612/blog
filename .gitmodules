@@ -1,0 +1,9 @@
+[submodule "blog-client"]
+	path = blog-client
+	url = git@github.com:smartdev0612/blog-client.git
+[submodule "blog-posts"]
+	path = blog-posts
+	url = git@github.com:smartdev0612/blog-posts.git
+[submodule "blog-comments"]
+	path = blog-comments
+	url = git@github.com:smartdev0612/blog-comments.git
