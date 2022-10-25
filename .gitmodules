@@ -10,3 +10,9 @@
 [submodule "blog-event-bus"]
 	path = blog-event-bus
 	url = git@github.com:smartdev0612/blog-event-bus.git
+[submodule "blog-query"]
+	path = blog-query
+	url = git@github.com:smartdev0612/blog-query.git
+[submodule "blog-moderation"]
+	path = blog-moderation
+	url = git@github.com:smartdev0612/blog-moderation.git
