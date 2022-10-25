@@ -7,3 +7,6 @@
 [submodule "blog-comments"]
 	path = blog-comments
 	url = git@github.com:smartdev0612/blog-comments.git
+[submodule "blog-event-bus"]
+	path = blog-event-bus
+	url = git@github.com:smartdev0612/blog-event-bus.git
