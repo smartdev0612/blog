@@ -16,3 +16,5 @@
 [submodule "blog-moderation"]
 	path = blog-moderation
 	url = git@github.com:smartdev0612/blog-moderation.git
+[submodule "blog-infra"]
+	path = blog-infra
